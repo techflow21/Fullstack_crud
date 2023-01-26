@@ -4,4 +4,5 @@ This is a Fullstack CRUD app developed using technologies such as React, Node wi
 # Features
 ===========
 - Create a new User with Name, email and Sex details
-- Read all the users
+- Read all the Users
+- Update any User
