@@ -9,4 +9,4 @@ This is a Fullstack CRUD app developed using technologies such as React, Node wi
 
 # Usage
 - Make sure Node is installed on your system.
-- 
+- Then, Goto your Visual Studio Terminal.
