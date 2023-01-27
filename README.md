@@ -8,3 +8,5 @@ This is a Fullstack CRUD app developed using technologies such as React, Node wi
 - Delete any of the Users
 
 # Usage
+- Make sure Node is installed on your system.
+- 
