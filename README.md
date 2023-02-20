@@ -16,3 +16,5 @@ This is a Fullstack CRUD app developed using technologies such as React, Node wi
 - Run 
 ''' npm install '''
 This will install all the necessary dependencies needed for the project.
+
+- Then run npm start to spin up the web app on the browser.
