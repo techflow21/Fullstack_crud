@@ -1,4 +1,4 @@
-# Fullstack_crud
+# Fullstack CRUD
 This is a Fullstack CRUD app developed using technologies such as React, Node with express framework, MySQL as Database and Bulma CSS.
 
 # Features
