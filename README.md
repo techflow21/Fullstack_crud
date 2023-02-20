@@ -9,6 +9,10 @@ This is a Fullstack CRUD app developed using technologies such as React, Node wi
 
 # Usage
 - Make sure Node is installed on your system.
+-Next navigate to Frontend with:
+''' cd frontend
+'''
 - Then, Goto your Visual Studio Code Terminal.
 - Run 
 ''' npm install '''
+This will install all the necessary dependencies needed for the project.
